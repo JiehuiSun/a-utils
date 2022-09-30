@@ -5,12 +5,12 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name="a_utils",
+    name="acomm",
     version="0.0.1",
     author="huihui",
     author_email="sunjiehuimail@foxmail.com",
     description="async utils",
-    url="https://github.com/JiehuiSun/a-utils.git",
+    url="https://github.com/JiehuiSun/acomm.git",
     packages=find_packages(),
     include_package_data=True,
     install_requires=[
